@@ -27,6 +27,6 @@ for i in range(180):
     ninja.setposition(0, 0)
     ninja.pendown()
 
-    ninja.right(2)
+    ninja.right(1.5)
 
 turtle.done()
